@@ -7,3 +7,5 @@ this is an example project
 ## this is the second heading
 
 this is the line added in the first branch
+
+this is the second branch line
