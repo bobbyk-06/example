@@ -8,6 +8,8 @@ this is an example project
 
 this is the line added in the first branch
 
+
+### following resolved during conflict
 this is in the third branch--> this is present in the master branch
 
 
